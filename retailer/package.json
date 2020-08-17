@@ -1,5 +1,5 @@
 {
-  "name": "@cropy-monorepo/retailer",
+  "name": "@cropy/retailer",
   "version": "1.0.0",
   "main": "__generated__/AppEntry.js",
   "scripts": {
